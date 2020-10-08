@@ -18,5 +18,11 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>TestingCategory</category>
+      </categories>
+      <tags>
+        <tag>TestingTag</tag>
+      </tags>
   </entry>
 </search>
